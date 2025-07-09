@@ -8,7 +8,7 @@
 - Phân tích giá theo bậc: S, SS, EVO
 - Mô phỏng hành vi F2P vs Whale
 - Biểu đồ trực quan bằng Python
-- Insight & Recommendation như Game Analyst thực thụ
+- Insight & Recommendation
 
 Xem notebook tại: [Google Colab Link](https://colab.research.google.com/drive/1O1bYxis9k6UNgWnF-tymBSnEjw9lhSGl?usp=sharing)
 
